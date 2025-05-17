@@ -172,6 +172,7 @@ design/multiprocessing
 
 design/v1/torch_compile
 design/v1/prefix_caching
+design/v1/kv_cache_management
 design/v1/metrics
 :::
 
